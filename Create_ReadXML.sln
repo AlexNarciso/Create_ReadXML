@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Create_ReadXML", "Create_ReadXML\Create_ReadXML.csproj", "{615B73F2-A613-4FD8-A628-3A45BBC2D1FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfControlLibrary", "WpfControlLibrary\WpfControlLibrary.csproj", "{C6EB6040-D237-4E95-B34F-F0E965758055}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{615B73F2-A613-4FD8-A628-3A45BBC2D1FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{615B73F2-A613-4FD8-A628-3A45BBC2D1FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{615B73F2-A613-4FD8-A628-3A45BBC2D1FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{615B73F2-A613-4FD8-A628-3A45BBC2D1FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6EB6040-D237-4E95-B34F-F0E965758055}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6EB6040-D237-4E95-B34F-F0E965758055}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6EB6040-D237-4E95-B34F-F0E965758055}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6EB6040-D237-4E95-B34F-F0E965758055}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3AFA90E0-B5C2-44E3-BD3B-EEBFF781C9CD}
+	EndGlobalSection
+EndGlobal

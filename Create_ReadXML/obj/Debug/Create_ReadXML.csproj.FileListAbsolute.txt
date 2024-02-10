@@ -1,0 +1,30 @@
+D:\Pasta de coisas\Programação\Create_ReadXML\Create_ReadXML\bin\Debug\Create_ReadXML.exe.config
+D:\Pasta de coisas\Programação\Create_ReadXML\Create_ReadXML\bin\Debug\Create_ReadXML.exe
+D:\Pasta de coisas\Programação\Create_ReadXML\Create_ReadXML\bin\Debug\Create_ReadXML.pdb
+D:\Pasta de coisas\Programação\Create_ReadXML\Create_ReadXML\obj\Debug\Create_ReadXML.csproj.AssemblyReference.cache
+D:\Pasta de coisas\Programação\Create_ReadXML\Create_ReadXML\obj\Debug\Create_ReadXML.Form1.resources
+D:\Pasta de coisas\Programação\Create_ReadXML\Create_ReadXML\obj\Debug\Create_ReadXML.Properties.Resources.resources
+D:\Pasta de coisas\Programação\Create_ReadXML\Create_ReadXML\obj\Debug\Create_ReadXML.csproj.GenerateResource.cache
+D:\Pasta de coisas\Programação\Create_ReadXML\Create_ReadXML\obj\Debug\Create_ReadXML.csproj.CoreCompileInputs.cache
+D:\Pasta de coisas\Programação\Create_ReadXML\Create_ReadXML\obj\Debug\Create_ReadXML.exe
+D:\Pasta de coisas\Programação\Create_ReadXML\Create_ReadXML\obj\Debug\Create_ReadXML.pdb
+D:\Pasta de coisas\Programação\Create_ReadXML\Create_ReadXML\bin\Debug\EntityFramework.dll
+D:\Pasta de coisas\Programação\Create_ReadXML\Create_ReadXML\bin\Debug\EntityFramework.SqlServer.dll
+D:\Pasta de coisas\Programação\Create_ReadXML\Create_ReadXML\bin\Debug\EntityFramework.xml
+D:\Pasta de coisas\Programação\Create_ReadXML\Create_ReadXML\bin\Debug\EntityFramework.SqlServer.xml
+D:\Pasta de coisas\Programação\Create_ReadXML\Create_ReadXML\obj\Debug\Create_ReadXML.csproj.CopyComplete
+D:\Programas\C#\Create_ReadXML\Create_ReadXML\bin\Debug\Create_ReadXML.exe.config
+D:\Programas\C#\Create_ReadXML\Create_ReadXML\bin\Debug\Create_ReadXML.exe
+D:\Programas\C#\Create_ReadXML\Create_ReadXML\bin\Debug\Create_ReadXML.pdb
+D:\Programas\C#\Create_ReadXML\Create_ReadXML\bin\Debug\EntityFramework.dll
+D:\Programas\C#\Create_ReadXML\Create_ReadXML\bin\Debug\EntityFramework.SqlServer.dll
+D:\Programas\C#\Create_ReadXML\Create_ReadXML\bin\Debug\EntityFramework.xml
+D:\Programas\C#\Create_ReadXML\Create_ReadXML\bin\Debug\EntityFramework.SqlServer.xml
+D:\Programas\C#\Create_ReadXML\Create_ReadXML\obj\Debug\Create_ReadXML.csproj.AssemblyReference.cache
+D:\Programas\C#\Create_ReadXML\Create_ReadXML\obj\Debug\Create_ReadXML.Form1.resources
+D:\Programas\C#\Create_ReadXML\Create_ReadXML\obj\Debug\Create_ReadXML.Properties.Resources.resources
+D:\Programas\C#\Create_ReadXML\Create_ReadXML\obj\Debug\Create_ReadXML.csproj.GenerateResource.cache
+D:\Programas\C#\Create_ReadXML\Create_ReadXML\obj\Debug\Create_ReadXML.csproj.CoreCompileInputs.cache
+D:\Programas\C#\Create_ReadXML\Create_ReadXML\obj\Debug\Create_ReadXML.csproj.CopyComplete
+D:\Programas\C#\Create_ReadXML\Create_ReadXML\obj\Debug\Create_ReadXML.exe
+D:\Programas\C#\Create_ReadXML\Create_ReadXML\obj\Debug\Create_ReadXML.pdb
